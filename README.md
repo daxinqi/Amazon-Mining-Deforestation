@@ -7,6 +7,7 @@ By now, the two issues of CO2 emission, and deforestation have become global iss
 
 
 <img src="https://i.natgeofe.com/n/e5d9c3f1-d1ec-482f-9f21-289380be01ae/greenhouse-gases-reference_4x3.jpg" alt="Greenhouse gases, facts and information"/>
+
 Source:https://nationalgeographic.com/environment/article/greenhouse-gases 
 
 
@@ -24,6 +25,7 @@ So, what’s going on in the atmosphere? Convection currents are natural cycles 
 
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf0BudHOf8vn0PHPIlaw4Y0yIGsSMV687yg3r0wK4aHGbqIuZZ&amp;s" alt="Smog Convection Currents - Science World"/>![image](https://github.com/user-attachments/assets/556a5cad-0ac0-4ad2-a2fe-0f30654b3072)
+
 Source:https://scienceworld.ca/resource/smog-convection-currents/
 
 
