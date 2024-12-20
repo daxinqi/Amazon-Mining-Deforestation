@@ -15,7 +15,7 @@ Source:https://nationalgeographic.com/environment/article/greenhouse-gases
 Take the Panama Canal for instance: The Panama Canal is a vital global trade route, offering a safer, shorter alternative to the treacherous Drake Passage, where the convergence of three oceans creates powerful currents and winds. Fed by Lake Gatún, the canal facilitates about 13,870 ship transits annually, generating nearly $5 billion in revenue. Since early 2023, however, a prolonged drought has strained canal operations. In October 2023, rainfall dropped 43% below average, reducing daily ship transits from 32 to 31 by August. This drought is driven by El Niño, which shifts the Pacific jet stream, causing drier conditions. Recent years have seen more extreme weather patterns, intensifying droughts and challenging the canal’s ability to sustain global shipping demands.
 
 
-<img src="https://s7d2.scene7.com/is/image/TWCNews/drought-dry-cracked-terrain1jpg" alt="How Bad is the Drought in California? Depends on Who You Ask"/>![image](https://github.com/user-attachments/assets/c72c4a49-b1ad-4ea0-a367-c9fb69503c56)
+<img src="https://s7d2.scene7.com/is/image/TWCNews/drought-dry-cracked-terrain1jpg" alt="How Bad is the Drought in California? Depends on Who You Ask"/>
 
 Source:https://spectrumnews1.com/ca/southern-california/weather/2021/03/05/how-bad-is-the-drought-in-california--depends-on-who-you-ask <br/>
 
