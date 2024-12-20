@@ -16,6 +16,8 @@ Quick links:
 ## March 2024 data and model updates
 
 Development of the mining detector halted in 2022 when we lost access to the geospatial computing platform at Descartes Labs. With the arrival of [new API methods](https://medium.com/google-earth/pixels-to-the-people-2d3c14a46da6) to export pixels from Google Earth Engine (GEE), we were able to swap GEE in for Descartes Labs as image source. The original Amazon Mining Watch survey was built on 2020 composite Sentinel-2 satellite imagery. With the redevelopment comes:
+qa
+
 
 * [Yearly assessments of mining activity for 2018-2023](https://github.com/earthrise-media/mining-detector#results). 
 * A new Sentinel-2 satellite data pipeline based on Google Earth Engine. Anyone with a GEE account should be able to [run this code](https://github.com/earthrise-media/mining-detector/blob/main/gee/README.md).
