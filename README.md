@@ -32,5 +32,5 @@ Source:https://scienceworld.ca/resource/smog-convection-currents/
 
 Deforestation, especially in the Amazon, is adding to the problem. Cutting down trees—sometimes illegally—and burning them to clear land releases a lot of CO2, which traps heat in the atmosphere and contributes to global warming. Locally, the lack of tree cover makes the ground hotter because there’s no shade, and the sun’s heat directly hits the surface. This heating strengthens convection currents in the air above the cleared areas, which disrupts local weather patterns through atomospheric shifts. The result? Less rainfall and droughts in nearby regions. 
 
-In this project we utilized Earthrise Media's [Mining detector model](https://github.com/earthrise-media/mining-detector) To correlate mining in the Amazon Rainforest with the
+In this project we utilized Earth Genome's [Mining detector model](https://github.com/earthrise-media/mining-detector) To correlate mining in the Amazon Rainforest with the
 regional rise in surface temperature, which was presumed to cause convection currents in the atosphere leading to trade wind shifts, and drought causing events such as El Niño.
