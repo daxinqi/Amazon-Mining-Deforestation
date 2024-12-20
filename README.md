@@ -16,6 +16,7 @@ Take the Panama Canal for instance: The Panama Canal is a vital global trade rou
 
 
 <img src="https://s7d2.scene7.com/is/image/TWCNews/drought-dry-cracked-terrain1jpg" alt="How Bad is the Drought in California? Depends on Who You Ask"/>![image](https://github.com/user-attachments/assets/c72c4a49-b1ad-4ea0-a367-c9fb69503c56)
+
 Source:https://spectrumnews1.com/ca/southern-california/weather/2021/03/05/how-bad-is-the-drought-in-california--depends-on-who-you-ask <br/>
 
 
