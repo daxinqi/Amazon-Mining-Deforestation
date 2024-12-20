@@ -1,0 +1,83 @@
+---From Code---
+
+True Positives (TP): 1024
+
+True Negatives (TN): 363
+
+False Positives (FP): 14
+
+False Negatives (FN): 0
+
+
+---Actual Conditions---
+
+Positives (P) = TP + FN = 1024 #could also just look at data for positive and negative labels
+
+Negatives (N) = FP + TN = 377
+
+True Positive Rate (TPR) = TP/P = 1 - FNR = 1 = 100%
+
+False Negative Rate (FNR) = FN/P = 1 - TPR = 0 = 0%
+
+False Positive Rate (FPR) = FP/N = 1 - TNR ≈ 0.03714 = 3.714% 
+
+True Negative Rate (TNR) = TN/N = 1 - FPR ≈ 0.96286 = 96.286%
+
+
+---Predicted Conditions---
+
+Predicted Positives (PP) = TP + FP = 1038
+
+Predicted Negatives (PN) = FN + TN = 363
+
+Positive Predictive Value (PPV) = TP/PP = 1 - FDR ≈ 0.98651 = 98.651%
+
+False Discovery Rate (FDR) = FP/PP = 1 - PPV ≈ 0.01349 = 1.349%
+
+False Omission Rate (FOR) = FN/PN = 1 - NPV = 0 = 0%
+
+Negative Predictive Value (NPV) = TN/PN = 1 - FOR = 1 = 100%
+
+
+---Other Values---
+
+Total Population = P + N = 1401
+
+Prevalence = P/(P + N) = P/Total Population ≈ 0.73091 = 73.091%
+
+Accuracy (ACC) = (TP + TN)/(P + N) = (TP + TN)/Total population ≈ 0.99001 = 99.001%
+
+Balanced Accuracy (BA) = (TPR + TNR)/2 ≈ 0.98143 = 98.143%
+
+F1 Score = 2PPV*TPR/(PPV + TPR) = 2TP/(2TP + FP + FN) ≈ 0.99321
+
+Fowlkes-Mallows Index (FM) = sqrt(PPV*TPR) ≈ 0.99323 
+
+Matthews Correlation Coefficient (MCC) ≈ sqrt(TPR*TNR*PPV*NPV) - sqrt(FNR*FPR*FOR*FDR) = 0.97461 
+
+Threat Score (TS), Critical Success Idex (CSI), Jaccard Index = TP/(TP + FN + FP) = 0.98651 
+
+Markedness (MK), deltaP (Δp) = PPV + NPV - 1 ≈ 0.98651 = 98.651%
+
+Positive Likelihood Ratio (LR+) = TPR/FPR ≈ 26.925
+
+Negative Likelihood Ratio (LR-) = FNR/TNR = 0
+
+Diagnostic Ods Rtio (DOR) = undefined (divison by 0)
+
+Informedness, Booknark Informedness (BM) = TPR + TNR - 1 ≈ 0.96286 = 96.286%
+
+Prevalence threshhold (PT) = (sqrt(TPR*FPR) - FPR)/(TPR - FPR) ≈ 0.16158
+
+
+---Loss Function---
+
+Binary Cross Entropy (BCE) =  – ( y * log(y_pred) + (1 – y) * log(1 – y_pred) )
+
+BCE: dofference between predicted probability and actual probability
+
+y: True label (either 0 or 1 (positive and negative in our use))
+
+y_pred: Predicted probability (between 0 and 1 (positive or negative))
+
+log: Natural logarithm 
