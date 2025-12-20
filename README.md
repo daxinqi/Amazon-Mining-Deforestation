@@ -1,6 +1,6 @@
 # Introduction
 
-Summary
+<title>Summary<title>
 
 The dual challenges of mining and deforestation have emerged as critical global concerns, drawing widespread attention from both consumers and companies. These interconnected issues have far-reaching and devastating consequences, including trade restrictions, infrastructure damage from increasingly severe weather events, and widespread crop failures caused by prolonged droughts and shifts in atmospheric convection patterns. Mining, a cornerstone of industrial development, comes with significant environmental costs. The extraction of minerals often leads to habitat destruction, soil erosion, water contamination, and the release of hazardous pollutants into the atmosphere. Additionally, mining activities frequently contribute to greenhouse gas emissions, further exacerbating climate change. The degradation of ecosystems and depletion of natural resources leave lasting scars on the environment, disrupting local biodiversity and jeopardizing the livelihoods of communities dependent on these landscapes. Similarly, deforestation accelerates these impacts by stripping the planet of its natural carbon sinks, further amplifying climate instability. Forest loss also disrupts weather patterns, reduces soil fertility, and undermines water cycles, compounding the damage initiated by mining practices. The cascading effects are evident across economic and social systems worldwide. Trade limitations arise as nations implement stricter environmental regulations to curb unsustainable practices, impacting global supply chains. Extreme weather events, such as floods and droughts, devastate communities, while agricultural systems face increasing challenges from soil degradation and water scarcity.
 
@@ -33,4 +33,7 @@ Deforestation, especially in the Amazon, is adding to the problem. Cutting down 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf0BudHOf8vn0PHPIlaw4Y0yIGsSMV687yg3r0wK4aHGbqIuZZ&amp;s" alt="Smog Convection Currents - Science World"/>
 
 Source:https://scienceworld.ca/resource/smog-convection-currents/
+
+
+<title>Mining Detector<title>
 
