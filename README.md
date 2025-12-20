@@ -1,7 +1,5 @@
 # Introduction
 
-<code> import numpy </code>
-
 How to use code
 
 Documentation
@@ -29,9 +27,9 @@ Source:https://spectrumnews1.com/ca/southern-california/weather/2021/03/05/how-b
 
 The Panama Canal is one of the busiest waterways in the world and a key player in global trade and shipping. It provides a much safer and shorter route compared to the Drake Passage, known for its treacherous waters. The Drake Passage is where the warm and cold waters of three oceans mix, creating strong currents and winds that aren’t blocked by any landmass. The Panama Canal gets its water mainly from Lake Gatún, an artificial lake that supplies water to its locks. On a typical day, about 38 ships pass through the canal, adding up to around 13,870 ships a year and generating nearly $5 billion in revenue.
 
-However, the canal is facing some big challenges. Since early 2023, Panama and the surrounding regions have been experiencing a prolonged drought, with rainfall in October 2023 dropping 43% below average. This has affected the canal’s operations, cutting the daily number of ships passing through from 32 to 31 on average in August 2023. A major factor behind this drought is El Niño, a weather pattern that shifts the Pacific jet stream. This change pushes the jet stream further south and stretches it eastward, leading to drier conditions in some areas. In recent years, these shifts have been more extreme, and the droughts they cause are getting worse.
-@@ -27,7 +32,9 @@ So, what’s going on in the atmosphere? Convection currents are natural cycles
-Deforestation, especially in the Amazon, is adding to the problem. Cutting down trees—sometimes illegally—and burning them to clear land releases a lot of CO2, which traps heat in the atmosphere and contributes to global warming. Locally, the lack of tree cover makes the ground hotter because there’s no shade, and the sun’s heat directly hits the surface. This heating strengthens convection currents in the air above the cleared areas, which disrupts local weather patterns. The result? Less rainfall and droughts in nearby regions.
+However, the canal is facing some big challenges. Since early 2023, Panama and the surrounding regions have been experiencing a prolonged drought, with rainfall in October 2023 dropping 43% below average. This has affected the canal’s operations, cutting the daily number of ships passing through from 32 to 31 on average in August 2023. A major factor behind this drought is El Niño, a weather pattern that shifts the Pacific jet stream. This change pushes the jet stream further south and stretches it eastward, leading to drier conditions in some areas. In recent years, these shifts have been more extreme, and the droughts they cause are getting worse. So, what’s going on in the atmosphere? Convection current shifts are a major player in the changing El Niño conditions.
+
+Deforestation, especially in the Amazon, is adding to the problem. Cutting down trees—sometimes illegally—and burning them to clear land releases a lot of CO2, which traps heat in the atmosphere and contributes to global warming. Locally, the lack of tree cover makes the surface temperature increase because there’s no shade, and the sun’s heat directly hits the surface. This heating strengthens convection currents in the air above the cleared areas, which disrupts local weather patterns. The result? Less rainfall and droughts in nearby regions.
 
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf0BudHOf8vn0PHPIlaw4Y0yIGsSMV687yg3r0wK4aHGbqIuZZ&amp;s" alt="Smog Convection Currents - Science World"/>
