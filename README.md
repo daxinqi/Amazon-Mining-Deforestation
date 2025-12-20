@@ -1,7 +1,5 @@
 # Introduction
 
-<title>Summary<title>
-
 The dual challenges of mining and deforestation have emerged as critical global concerns, drawing widespread attention from both consumers and companies. These interconnected issues have far-reaching and devastating consequences, including trade restrictions, infrastructure damage from increasingly severe weather events, and widespread crop failures caused by prolonged droughts and shifts in atmospheric convection patterns. Mining, a cornerstone of industrial development, comes with significant environmental costs. The extraction of minerals often leads to habitat destruction, soil erosion, water contamination, and the release of hazardous pollutants into the atmosphere. Additionally, mining activities frequently contribute to greenhouse gas emissions, further exacerbating climate change. The degradation of ecosystems and depletion of natural resources leave lasting scars on the environment, disrupting local biodiversity and jeopardizing the livelihoods of communities dependent on these landscapes. Similarly, deforestation accelerates these impacts by stripping the planet of its natural carbon sinks, further amplifying climate instability. Forest loss also disrupts weather patterns, reduces soil fertility, and undermines water cycles, compounding the damage initiated by mining practices. The cascading effects are evident across economic and social systems worldwide. Trade limitations arise as nations implement stricter environmental regulations to curb unsustainable practices, impacting global supply chains. Extreme weather events, such as floods and droughts, devastate communities, while agricultural systems face increasing challenges from soil degradation and water scarcity.
 
 
@@ -35,5 +33,17 @@ Deforestation, especially in the Amazon, is adding to the problem. Cutting down 
 Source:https://scienceworld.ca/resource/smog-convection-currents/
 
 
-<title>Mining Detector<title>
+# Mining Detector
+
+#### Detection Accuracy
+
+The Amazon basin encompasses an enormous, complex geography extending over 8.5 million square kilometers. For each quarterly dataset, the neural networks make over 100 million assessments for mining. By constrast, in late 2025, the labeled data we withhold to evaluate model performance consists of around 6400 examples. The metrics we derive from the withheld dataset can only be considered roughly indicative of how the networks will perform in extrapolating to the whole of the territory. At threshold t=0.925, the 2025 model ensemble operates with a precision of 99.6% and a recall of 79.6% for the detection of mine scars, which translates to an overall accuracy of 98.1%. Those metrics apply before post-processing, aggregation of detections to polygons, and human review.
+
+For the 2024 models, which yield the 2018-2023 data on the Amazon Mining Watch website, we ran the following complimentary test. We evaulated by hand a random sample of 500 patch detections from 2023-year data. Of the 500 samples, 498 show scars from artisanal mining. One is an industrial mine, and one is a remnant of the construction of the Balbina dam and power station from around 1985. From this, we can estimate the precision or positive predictive value for that classifier again (in a numerical coincidence) to be 99.6%. In essence, the precision tells you the likelihood that a patch marked as a mine is actually a mine. 
+
+
+#### Area estimation
+
+The goal of this work is mine detection rather than area estimation, and our classification operates on square image patches covering around twenty hectares each. If the network determines a patch to contain a mine scar, we compute the mined area within the patch by masking and excluding intact vegetation using the Normalized Difference Vegetation Index (NDVI). This yields good masks in forest backgrounds. Area estimates will have higher uncertainties over bare ground and rangelands.
+
 
